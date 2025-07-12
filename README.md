@@ -35,6 +35,6 @@ Tailor offerings per customer segment
 
 ## Business Insights 
 
-[See possible example business insights ](business-insights)
+[See possible example business insights ](business-Insights)
 
 
