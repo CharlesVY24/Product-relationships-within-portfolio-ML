@@ -1,0 +1,12 @@
+the clustering will allow to create groups of customers with different behaviors, to find more insightful product assocaitions differentiarted from differernt customers.
+In this example is possible to see how the clustering after the tunning finds 3 different types of customers on the example dataset , we can also see the graphic visualization of the clusters and how are they separated to each other.
+
+To gain a better understanding of the clusters and their features we created a boxplot that shows the dsitribution of the feature values to understand the characteristics of each group
+to draw a characterization and get a better explainability of who they are.
+ 
+to see the variables that define better the clusters we have the feature contribution graph, in which we can find the bi dimensional analysis of the variables, understanding the eimpact of each of them in the classification and assesing its relevance.
+
+in this other graph is possible to see that product associations are different across the created groueps , and in the graeph we compare the item frecuency  and the most relevant product pairs across the  clusters demostreg ating that clustering allows a differentiated analysis understanding the diffeent characteristics and behavior of customers and their buting patterns.
+
+
+Finally we can see how after running the association rule mining we can find the most common product pairs in general and also across the clusters, allowing to determine cross selling opportunities, given that we now know the most signifiocant product pairs for each cluster (Group) and othe customer who only one one of them is highly likely to be targeted  for the associated tpair, given that this specific produc ts pair is a pattern on their cluster.
